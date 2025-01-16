@@ -11,10 +11,10 @@
 <hr>
 <h2>Lenguajes de Programación</h2>
 <ul>
-  <li img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python Logo" width="100">Python</li>
-  <li>C y C++</li>
-  <li>SQL</li>
-  <li>HTML, CSS, JavaScript</li>
+  <li>🐍Python</li>
+  <li>©️C y C++</li>
+  <li>📊SQL</li>
+  <li>🌐HTML, CSS, JavaScript</li>
 </ul>
 
 
