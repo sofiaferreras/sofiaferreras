@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Sofía Ferreras Entero 
 
 <!--
 **sofiaferreras/sofiaferreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<ol>
+  <li>💻Soy una estudiante de Ingeniería Informática y Ade en la UC3M.
+  </li>
+  <li>Actualemte estoy cursando 3º</li>
+  <li>Puedes contactarme através de: <a href="www.linkedin.com/in/sofia-ferreras"> Linkeding </a></li>
+  <li>También puedes acceder a mi <a href="CV-SofiaFerreras.pdf" download="CV-SofiaFerreras.pdf"> CV</a></li>
+</ol>
