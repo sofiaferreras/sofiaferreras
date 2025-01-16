@@ -1,4 +1,4 @@
-##Hola, soy Sofía Ferreras Entero
+<h1>Hola, soy Sofía Ferreras Entero</h1>
 
 <!--
 **sofiaferreras/sofiaferreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
