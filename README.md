@@ -1,19 +1,6 @@
-<h1>Hola, soy Sofía Ferreras Entero</h1>
+<h2>Hola, soy Sofía Ferreras Entero</h2>
 
-<!--
-**sofiaferreras/sofiaferreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <ul>
   <li>💻Soy una estudiante de Ingeniería Informática y Ade en la UC3M.
   </li>
@@ -21,3 +8,16 @@ Here are some ideas to get you started:
   <li>📫Puedes contactarme através de: <a href="https://www.linkedin.com/in/sofia-ferreras"> Linkeding </a></li>
   <li>💬También puedes acceder a mi <a href="CV-SofiaFerreras.pdf" download="CV-SofiaFerreras.pdf"> CV</a></li>
 </ul>
+
+<hr>
+
+<h1>Lenguajes de Programación</h1>
+  <div class="icons">
+    <i class="fab fa-css3-alt" title="CSS"></i>
+    <i class="fab fa-js-square" title="JavaScript"></i>
+    <i class="fab fa-python" title="Python"></i>
+    <i class="fab fa-html5" title="HTML"></i>
+    <i class="fas fa-database" title="SQL"></i>
+    <span title="C">C</span>
+    <span title="C++">C++</span>
+  </div>
