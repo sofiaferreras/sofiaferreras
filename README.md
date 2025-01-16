@@ -10,8 +10,23 @@
 </ul>
 
 <hr>
-
-<h1>Lenguajes de Programación</h1>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/devicons@2.14.0/css/devicons.min.css">
+  <style>
+    .icons {
+      display: flex;
+      gap: 15px;
+      font-size: 40px;
+    }
+    .icons i {
+      color: #555;
+      transition: transform 0.3s ease, color 0.3s ease;
+    }
+    .icons i:hover {
+      transform: scale(1.2);
+      color: #000;
+    }
+  </style>
+<h2>Lenguajes de Programación</h2>
   <div class="icons">
     <i class="fab fa-css3-alt" title="CSS"></i>
     <i class="fab fa-js-square" title="JavaScript"></i>
