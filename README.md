@@ -2,7 +2,7 @@
 
 
 <ul>
-  <li>💻Soy una estudiante de Ingeniería Informática y Ade en la UC3M.
+  <li>💻Soy estudiante de Ingeniería Informática y Ade en la UC3M.
   </li>
   <li>🌱Actualemte estoy cursando 3º</li>
   <li>📫Puedes contactarme através de: <a href="https://www.linkedin.com/in/sofia-ferreras"> Linkeding </a></li>
