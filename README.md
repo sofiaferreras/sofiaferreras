@@ -6,7 +6,7 @@
   </li>
   <li>🌱Actualemte estoy cursando 4º</li>
   <li>📫Puedes contactarme através de: <a href="https://www.linkedin.com/in/sofia-ferreras"> Linkedin </a></li>
-  <li>💬También puedes acceder a mi <a href="CV-SofiaFerreras.pdf" download="CV-SofiaFerreras.pdf"> CV</a></li>
+  <li>💬También puedes acceder a mi <a href="CV-SofiaFerrerasEnglish.pdf" download="CV-SofiaFerrerasEnglish.pdf"> CV</a></li>
 </ul>
 <hr>
 <h2>Lenguajes de Programación</h2>
