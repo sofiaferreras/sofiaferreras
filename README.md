@@ -1,10 +1,10 @@
-<h2>Hola, soy Sofía Ferreras Entero</h2>
+<h2>Hola!🙋🏻‍♀️</h2>
 
 
 <ul>
   <li>💻Soy estudiante de Ingeniería Informática y Ade en la UC3M.
   </li>
-  <li>🌱Actualemte estoy cursando 4º</li>
+  <li>🌱Actualemte estoy cursando 5º</li>
   <li>📫Puedes contactarme através de: <a href="https://www.linkedin.com/in/sofia-ferreras"> Linkedin </a></li>
   <li>💬También puedes acceder a mi <a href="CV-SofiaFerrerasEnglish.pdf" download="CV-SofiaFerrerasEnglish.pdf"> CV</a></li>
 </ul>
